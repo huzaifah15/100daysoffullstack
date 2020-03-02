@@ -14,4 +14,10 @@
 3. **Task 3**: Dictionaries
 4. **Task 4**: Linking Files to Navbar
 
- 
+## Day3
+
+1. **Task 1**: Create A Portfolio Site for Solution Anywhere Company.
+
+## Day4
+
+1. **Task 1**:[basic Css styles](https://romantic-wing-be0ba3.netlify.com)
