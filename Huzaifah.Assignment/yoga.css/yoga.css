@@ -1,0 +1,41 @@
+.head1{
+    text-align: center;
+    background-color: #9BC1C2;
+    margin: 10px 40px 10px 40px;
+    line-height: 200%;
+}
+#navbar{
+    list-style-type: none;
+    text-align: center;
+    font-weight:bold;
+   
+   }
+   #navbar li{
+      display: inline;
+      padding: 8px;
+      font-size: 15px;
+   }
+   #navbar li a{
+    text-decoration: none;
+   }
+   .head2{
+       margin: 10px;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      
+   }
+   .studio{
+       font-style: italic;
+
+   }
+   .foot{
+    text-align: center;
+    background-color: #9BC1C2;
+    margin: 130px 40px 10px 40px;
+    line-height: 110%;
+    font-size: 0.6em;
+   }
+   .wrapper{
+       width: 80%;
+       margin-left: auto;
+       margin-right: auto;
+   }
